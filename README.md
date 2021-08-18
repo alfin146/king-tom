@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="lisa.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="lisa" src="https://h.top4top.io/p_2049zyydb0.jpg"></a>
+<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
@@ -51,6 +51,15 @@ Click WA logo to Join Support Group 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
+
+## 
+  <h3 align="center">📢 Support Group 2:</h3>
+<p align="center">
+Click Pikachu logo to Join Support Group 2👇
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
     
 ## Setup
 <div align="center">
