@@ -20,7 +20,7 @@ Project created by <a href="https://github.com/salman-dx">salman-dx</a> to make 
 
   <p align="center">
   <a href="httsp://github.com/salman-dx/lisa">
-    <img src="https://h.top4top.io/p_2049zyydb0.jpg">
+    <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/salman-dx/followers"><img title="Followers" src="https://img.shields.io/github/followers/salman-dx?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/salman-dx/lisa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salman-dx/lisa?color=f7df1e&style=flat-square"></a>
