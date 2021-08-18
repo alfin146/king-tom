@@ -51,15 +51,6 @@ Click WA logo to Join Support Group 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LwNtEHA5cc61v9A2H8y4S7)
-
-## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click lisa logo to Join Support Group 2👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
-</p>
     
 ## Setup
 <div align="center">
