@@ -814,7 +814,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     '\n*lisa an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf' +
+                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/LwNtEHA5cc61v9A2H8y4S7' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
